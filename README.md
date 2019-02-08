@@ -6,7 +6,7 @@ Contributions:
 2. We employed the MobileFaceNet architecture and trained using the angular softmax (A-Softmax) loss function on the VGGFace2 dataset.
 
 Model size: 8MB. 
-Feature size: 256-dimensional.
+Feature size: 256-dimension.
 Accuracy: 99.30% on LFW.
 
 References:
