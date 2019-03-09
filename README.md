@@ -9,6 +9,16 @@ Model size: 8MB.
 Feature size: 256-dimension.
 Accuracy: 99.30% on LFW.
 
+## Citation
+If you use this code for your research, please cite our papers.
+```
+@inproceedings{SGGAN2019,
+  title={Matching Thermal to Visible Face Images Using a Semantic-Guided Generative Adversarial Network},
+  author={Chen, Cunjian and Ross, Arun},
+  booktitle={IEEE International Conference on Automatic Face & Gesture Recognition},
+  year={2019}
+}
+
 References:
 
 1. https://github.com/wy1iu/sphereface
